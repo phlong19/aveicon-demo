@@ -1,0 +1,68 @@
+.container {
+  padding-inline: 70px;
+  padding-block: 50px;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.center {
+  justify-content: center;
+  align-items: center;
+}
+
+h3 {
+  width: fit-content;
+}
+
+.space-between {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.box {
+  background-color: white;
+  border-radius: 16px;
+  box-shadow: 0px 2px 4px 1px #0000000f;
+  box-shadow: 0px 4px 6px 3px #0000001a;
+  max-width: 450px;
+  padding: 24px;
+  height: fit-content;
+}
+
+.gap-4 {
+  gap: 16px;
+}
+
+.gap-6 {
+  gap: 24px;
+}
+
+.gap-10 {
+  gap: 40px;
+}
+
+code {
+  padding-block: 8px;
+  padding-inline: 16px;
+  background-color: #222;
+  color: white;
+  border-radius: 6px;
+}
+
+.npm {
+  color: lightgreen;
+}
+
+.yarn {
+  color: skyblue;
+}
