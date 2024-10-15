@@ -1,5 +1,6 @@
 {
   "name": "aveicon-demo",
+  "description": "demo for aveicon package",
   "private": true,
   "version": "0.0.0",
   "type": "module",
